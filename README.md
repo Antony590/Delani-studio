@@ -16,7 +16,7 @@ You'll only need a computer and internet to access my portfolio.
 * -$code .
 * Run the project on live server
 # Want to contribute?
-#To fix a bug or enhance an existing module, follow these steps:
+# To fix a bug or enhance an existing module, follow these steps:
 
 * Fork the repo
 * Create a new branch (git checkout -b improve-feature)
@@ -31,7 +31,7 @@ If you find a bug (the website couldn't handle the query and or gave undesired r
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 
 # Live Link
-
+https://antony590.github.io/Delani-studio/
 
 # Support and contact details
 Email alegoantony047@gmail.com Phone +254715399590
